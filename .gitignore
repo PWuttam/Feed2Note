@@ -28,3 +28,9 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+# --- Frontend / Node ---
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
