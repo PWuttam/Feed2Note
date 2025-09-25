@@ -60,3 +60,4 @@ Feed2Note/
 📜 License
 
 MIT
+MD
