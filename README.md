@@ -35,7 +35,7 @@ cd ../backend
 composer create-project laravel/laravel .
 php artisan key:generate
 php artisan serve  # http://127.0.0.1:8000
-```bash
+```
 
 ---
 
