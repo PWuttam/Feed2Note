@@ -55,12 +55,15 @@ php artisan serve  # http://127.0.0.1:8000
 - v0.6 Polish & Release: エラーUX/権限/デプロイ手順
 
 📂 Repository Layout
+```text
 Feed2Note/
 ├─ backend/    # Laravel (後日初期化)
 ├─ frontend/   # Vite + Vue + Tailwind
 └─ docs/       # 仕様・設計・スクショ
+```
 
-📜 License
+```markdown
+## 📜 License
 
 - MIT
 - MD
