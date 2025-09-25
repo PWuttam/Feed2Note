@@ -65,5 +65,4 @@ Feed2Note/
 ```markdown
 ## 📜 License
 
-- MIT
-- MD
+MIT
