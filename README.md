@@ -30,7 +30,7 @@ npm run dev  # http://localhost:5173
 ```
 
 ```bash
-# Backend（後日）
+# Backend
 cd ../backend
 composer create-project laravel/laravel .
 php artisan key:generate
@@ -63,6 +63,6 @@ Feed2Note/
 ```
 
 ```markdown
-## 📜 License
+📜 License
 
 MIT
